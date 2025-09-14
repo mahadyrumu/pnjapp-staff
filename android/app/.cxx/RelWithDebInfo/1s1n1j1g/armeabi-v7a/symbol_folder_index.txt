@@ -1,0 +1,1 @@
+/Users/engmilon/sdev/techcliqs/parknjet/jetdispatch/build/app/intermediates/cxx/RelWithDebInfo/1s1n1j1g/obj/armeabi-v7a

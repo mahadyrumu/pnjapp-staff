@@ -1,0 +1,2 @@
+/Users/engmilon/sdev/techcliqs/parknjet/jetdispatch/android/app/.cxx/RelWithDebInfo/1s1n1j1g/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/engmilon/sdev/techcliqs/parknjet/jetdispatch/android/app/.cxx/RelWithDebInfo/1s1n1j1g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
